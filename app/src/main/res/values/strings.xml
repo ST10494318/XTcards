@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">XtCard</string>
+    <string name="start">Start</string>
+    <string name="textview">TextView</string>
+    <string name="welcome_test_your_history_knowledge_with_these_flashcards">Welcome! Test your history knowledge with these flashcards.</string>
+    <string name="xt_quiz">XT QUIZ</string>
+    <string name="next">Next</string>
+    <string name="question_goes_here">Question goes here</string>
+    <string name="exit">Exit</string>
+    <string name="your_score_0_5">Your Score: 0/5</string>
+    <string name="review">Review</string>
+    <string name="view">TextView</string>
+    <string name="falseButton">FALSE</string>
+    <string name="trueButton">TRUE</string>
+</resources>
